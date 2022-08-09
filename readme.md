@@ -1,38 +1,57 @@
-<!-- ![clone](https://imgur.com/IA5Qmue.png) -->
+![clone](https://imgur.com/RNtmZuH.png)
 
-# Online Magazine! - by Tatyana, Gabe
+# Altacia - the online magazine
 
-<br>
+## by Tatyana, Gabe
+
+_____________________________________________________________________________________
+
+
 <!-- ![clone](https://imgur.com/2wai22O.png) -->
-<br>
 
-## Welcome to our ReadMe File. Online Magazine is the place to go for your daily niche news fix!!!  
 
-<br>
-<br>
-<!-- ![clone](https://imgur.com/YA52asq.png) -->
-<br>
-<br>
-
-## Link to the project's GitHub repo can be found <em><a href="https://github.com/gabevela/projectFour">here</a>.</em>
+## Welcome to our ReadMe. 
 
 <br>
-<br>
-<!-- ![clone](https://imgur.com/2wai22O.png) -->
+
+### Altacia is the place to go for your daily niche news fix
+
 <br>
 
-## Visit Online Magazine on Heroku now! <em><a href="https://google.com">Click here</a></em> 
+### Visit Altacia on Heroku now! <em><a href="https://google.com">Click here</a></em> 
 
-- Search by Author - this option will allow a user to filter my the Author whoe wrote the article
+<br>
+<br>
+
+![clone](https://imgur.com/wNUV4fF.png)
+
+<br>
+<br>
+
+### Link to the project's GitHub repo can be found <em><a href="https://github.com/gabevela/projectFour">here</a>.</em>
+
+<br>
+
+## Here is our original wireframe:
+
+<br>
+
+![clone](https://imgur.com/53tvIa5.png)
+
+<br>
+
+
 <br>
 
 ## If you sign up, you may
 
 <br>
 
-- Save articles to your User Profile. 
+- Save articles to your User Profile
 
 - Subscribe for email updates
+
+- Search article by Author
 
 <br>
 <!-- ![clone](https://imgur.com/aoJeFjd.png) -->
@@ -42,21 +61,19 @@
 ## Main data that our online magazine requires:
 
 <br>
-<!-- ![clone](https://imgur.com/sUoWfP0.png) -->
+
+![clone](https://imgur.com/KH95owh.png)
+
 <br>
 <br>
 <br>
 
-## We then went on to create the ERD to visualize the relationships between our data:
+<!-- ## We then went on to create the ERD to visualize the relationships between our data: -->
 
 <br>
+
 <!-- ![clone](https://imgur.com/kDv6PyL.png) -->
-<br>
-<br>
 
-## Here is our original wireframe:
-
-<br>
 <br>
 <!-- ![clone](https://imgur.com/VryyRAS.png) -->
 
