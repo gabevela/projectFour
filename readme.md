@@ -20,12 +20,7 @@ ________________________________________________________________________________
 
 ### Visit "A" on Heroku now! <em><a href="https://google.com">Click here</a></em> 
 
-<br>
-<br>
 
-![clone](https://imgur.com/wNUV4fF.png)
-
-<br>
 <br>
 
 ### Link to the project's GitHub repo can be found <em><a href="https://github.com/gabevela/projectFour">here</a>.</em>
@@ -40,10 +35,11 @@ ________________________________________________________________________________
 
 <br>
 
+![clone](https://imgur.com/wNUV4fF.png)
 
 <br>
 
-## If you sign up, you may
+## If you subscribe, you may
 
 <br>
 
