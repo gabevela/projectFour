@@ -1,6 +1,6 @@
 ![clone](https://imgur.com/RNtmZuH.png)
 
-# Altacia - the online magazine
+# "A" - the online magazine
 
 ## by Tatyana, Gabe
 
@@ -14,11 +14,11 @@ ________________________________________________________________________________
 
 <br>
 
-### Altacia is the place to go for your daily niche news fix
+### "A" is the place to go for your daily niche news fix
 
 <br>
 
-### Visit Altacia on Heroku now! <em><a href="https://google.com">Click here</a></em> 
+### Visit "A" on Heroku now! <em><a href="https://google.com">Click here</a></em> 
 
 <br>
 <br>
@@ -53,8 +53,12 @@ ________________________________________________________________________________
 
 - Search article by Author
 
+- Go Ad Free!!
+
 <br>
-<!-- ![clone](https://imgur.com/aoJeFjd.png) -->
+
+![clone](https://imgur.com/UaPgSwC.png)
+
 <br>
 <br>
 
@@ -94,4 +98,6 @@ ________________________________________________________________________________
 <br>
 <br>
 <br>
-<!-- ![clone](https://imgur.com/Sj6YfSk.png)# projectFour -->
+
+
+![clone](https://imgur.com/PMN9rX4.png)
