@@ -64,10 +64,15 @@
 
 ### We relied on the following tech to make this app possible:
 <br>
+
 1. HTML
+
 2. CSS
+
 3. JavaScript
+
 4. React
+
 <br>
 <br>
 <br>
